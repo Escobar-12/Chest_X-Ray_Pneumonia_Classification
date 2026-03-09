@@ -10,12 +10,10 @@ This repository contains a TensorFlow/Keras implementation of a deep learning mo
 * [Dataset](#dataset)
 * [Model Architecture](#model-architecture)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Training](#training)
 * [Evaluation](#evaluation)
 * [Results](#results)
 * [Saving & Loading Model](#saving--loading-model)
-* [License](#license)
 
 ---
 
